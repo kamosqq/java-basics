@@ -2,10 +2,10 @@ package pl.edu.wszib.app.lab1task;
 
 public enum RodzajTruskawki {
 
-    ANANASOWA("Białe owoce"),
+    ANANASOWA("Biale owoce"),
     HONEOYE("Wyrazista"),
     POLKA("Najsmaczniejsza"),
-    KENT("Dla fanów słodyczy"),
+    KENT("Dla fanow słodyczy"),
     CHRISTINE("Zaowocuje szybko i obficie"),
     ;
     private final String cecha;

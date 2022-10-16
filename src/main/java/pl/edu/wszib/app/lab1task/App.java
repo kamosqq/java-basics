@@ -5,8 +5,10 @@ public class App {
         KoktajlTruskawkowy shake = new KoktajlTruskawkowy(300, RodzajTruskawki.ANANASOWA);
         shake.pij();
 
-        RodzajTruskawki rodzajTruskawki = RodzajTruskawki.ANANASOWA;
-        String opis = switch(rodzajTruskawki){
+        //RodzajTruskawki rodzajTruskawki = RodzajTruskawki.ANANASOWA;
+
+
+        /*String opis = switch(rodzajTruskawki){
             case ANANASOWA -> {
                 yield "opis";
             }
@@ -23,6 +25,7 @@ public class App {
                 yield "opis";
             }
         };
+        */
 
     }
 }
