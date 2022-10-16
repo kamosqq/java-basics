@@ -7,6 +7,7 @@ import pl.edu.wszib.app.MyInterface2;
 //  pl.edu.wszib.app.MyClass
 
 public class MyClass2 extends MyClass implements MyInterface, MyInterface2 {
+    public static final String MY_STATIC_FIELD = "My static field";
 
 //    public MyClass myClass;
 
